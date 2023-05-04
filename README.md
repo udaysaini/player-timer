@@ -1,5 +1,8 @@
-# Getting Started with Create React App
+# Description
 
+Application to calculate the amount of time a player spends playing in the game and keeping a record of his/her playing times throughout the Rec League season
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
